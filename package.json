@@ -1,6 +1,6 @@
 {
   "name": "meta-mount",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./bin/index.js",
   "description": "Mount",
   "author": "metaory <metaory@gmail.com>",
@@ -13,7 +13,7 @@
     "start": "node bin"
   },
   "bin": {
-    "mssh": "./bin/index.js"
+    "mmount": "./bin/index.js"
   },
   "dependencies": {
     "chalk": "^2.4.2",
